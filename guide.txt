@@ -1,0 +1,10 @@
+pip install requirements.txt
+python cli.py -c 1 -r 1 -v
+if can be run
+python mpirun -n 20 python cli.py -c 2000 -r 5000 -v
+
+
+
+
+
+
